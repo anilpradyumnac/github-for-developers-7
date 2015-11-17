@@ -1,15 +1,9 @@
 ###Introduction
 
 
-<<<<<<< HEAD
-##Name:Anil Pradyumna
+
+Name:Anil Pradyumna
  It is fun to use github every day
- 
-##Favourite Color: Yellow
-=======
-""Name:Anil Pradyumna
- It is fun to use github every day
- 
-""Favourite Color: Yellow
->>>>>>> master
+Favourite Color: Yellow
+
 This is a local repo edit 
